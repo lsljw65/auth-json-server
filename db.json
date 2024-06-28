@@ -1,0 +1,64 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "id": "c41f",
+      "day": 4
+    }
+  ],
+  "todos": [
+    {
+      "id": "2",
+      "day": 1,
+      "title": "영상 및 녹음",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "title": "유튜브 녹화",
+      "isDone": false
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "title": "포토샵",
+      "isDone": false
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "title": "HTML",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "title": "Javascript",
+      "isDone": false
+    },
+    {
+      "id": "07f2",
+      "day": 1,
+      "title": "일러스트레이터",
+      "isDone": false
+    },
+    {
+      "id": "f732",
+      "day": 4,
+      "title": "추가4일",
+      "isDone": false
+    }
+  ]
+}
